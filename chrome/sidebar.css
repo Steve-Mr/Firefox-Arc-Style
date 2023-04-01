@@ -6,7 +6,7 @@
   --theme-border-radius: 5px;
 }
 :root[titlepreface*="[S] "] { 
-  --theme-sidebar-width: 250px !important;
+  --theme-sidebar-width: 450px !important;
   --theme-button-size: calc(var(--theme-icon-size) + var(--theme-icon-pad) * 2);
   --theme-urlbar-height: 40px !important;
   --toolbarbutton-inner-padding: 2.5px !important;
@@ -80,9 +80,9 @@
   --urlbar-container-padding: 0 var(--theme-spacing);
   --urlbar-margin-inline: 0px;
   --urlbar-height: var(--theme-urlbar-height) !important;
-  left: 165px !important;
+  left: 100px !important;
   top: 0 !important;
-  width: 151px !important;
+  width: 220px !important;
   box-shadow: rgba(0, 0, 0, 0.1) 1.8px 1.5px 1px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px !important;
   font-size: 12px !important;
   transition: 0.1s all;
